@@ -1,0 +1,1 @@
+6576a2da792eb97d9ab2cf709a60f24b411ce2ec707c32a8e843c0fd846fdb7e  BaawiilMonitor-0.2.0-dev-setup.exe

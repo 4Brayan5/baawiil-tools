@@ -10,6 +10,12 @@ Le développement couvre désormais les quinze rubriques du cahier des charges. 
 - [Guide utilisateur](docs/utilisation.md)
 - [Recette Windows 11](docs/recette-windows.md)
 
+## Télécharger l’installateur
+
+**[Télécharger Baawiil Monitor pour Windows 11 x64 (.exe)](https://github.com/4Brayan5/baawiil-tools/raw/refs/heads/main/downloads/BaawiilMonitor-0.2.0-dev-setup.exe)**
+
+Version de développement non signée, environ 78 Mio. [Empreinte SHA-256](downloads/SHA256SUMS.txt) · [État des fonctionnalités et limites](docs/etat-implementation.md).
+
 ## Fonctions présentes
 
 CPU global et par processeur logique, RAM et engagement, processus avec recherche/tri, propriétés et signature locale, modules et handles accessibles, terminaison confirmée et arborescence, priorité et affinité. Graphiques horodatés, pause, survol, fenêtres jusqu'à 24 h, navigation temporelle et exports PNG/CSV.
