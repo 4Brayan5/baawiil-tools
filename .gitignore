@@ -1,0 +1,6 @@
+/build/
+/out/
+/.deps/
+/dist/
+*.user
+__pycache__/
